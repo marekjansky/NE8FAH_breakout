@@ -39,6 +39,8 @@
 
   (setup
     (pad_to_mask_clearance 0)
+    (aux_axis_origin 43.6 84)
+    (grid_origin 43.6 84)
     (pcbplotparams
       (layerselection 0x00010e0_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)

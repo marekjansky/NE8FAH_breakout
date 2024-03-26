@@ -30,3 +30,6 @@ fp-info-cache
 
 # Output generated files
 out/
+
+# Freecad temp files
+*.FCBak
